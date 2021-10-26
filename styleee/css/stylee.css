@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+h3{
+    font-size: 30px;
+    color: aquamarine;
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+color: brown;
+}
+
+span{font-style: italic;}
+h3 span{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
